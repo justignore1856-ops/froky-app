@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393357883398",
+    "project_id": "froky-23e31",
+    "storage_bucket": "froky-23e31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393357883398:android:e64a0e0fa123b6a7ed6b87",
+        "android_client_info": {
+          "package_name": "com.genix.froky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393357883398-h4u9dlqfdp9cv0l28shcmtcfsic14nmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIhsh2nS57qQnhcm5yiV9AQKrK_evpLfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393357883398-h4u9dlqfdp9cv0l28shcmtcfsic14nmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

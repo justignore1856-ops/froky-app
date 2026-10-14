@@ -1,0 +1,1630 @@
+{
+  "supportDropMedia": "ચિત્રો અથવા PDF અહીં મૂકો",
+  "supportZoomIn": "ઝૂમ ઇન",
+  "supportZoomOut": "ઝૂમ આઉટ",
+  "supportZoomReset": "ઝૂમ રીસેટ કરો",
+  "@@locale": "gu",
+  "timelineOrderPlacedDone": "તમારો ઓર્ડર આપી દેવાયો છે",
+  "timelineOrderPlacedPending": "ઓર્ડર હજી આપવાનો બાકી છે",
+  "timelinePaymentReceivedDone": "ચુકવણી પ્રાપ્ત થઈ",
+  "timelinePaymentReceivedPending": "ચુકવણી હજી પ્રાપ્ત થવાની બાકી છે",
+  "timelinePreparingDone": "વિક્રેતા તમારો ઓર્ડર તૈયાર કરી રહ્યા છે",
+  "timelinePreparingPending": "વિક્રેતાએ હજી તમારો ઓર્ડર પ્રોસેસ કરવાનો બાકી છે",
+  "timelineShippedDone": "તમારી વસ્તુ મોકલી દેવાઈ છે",
+  "timelineShippedPending": "વસ્તુ હજી મોકલવાની બાકી છે",
+  "timelineOutForDeliveryDone": "તમારી વસ્તુ ડિલિવરી માટે નીકળી ગઈ છે",
+  "timelineOutForDeliveryPending": "વસ્તુ હજી ડિલિવરી માટે નીકળવાની બાકી છે",
+  "timelineDeliveredDone": "તમારી વસ્તુ ડિલિવર થઈ ગઈ છે",
+  "timelineDeliveredPending": "વસ્તુ હજી ડિલિવર થવાની બાકી છે",
+  "timelineReturnRequestedDone": "રિટર્નની વિનંતી કરાઈ",
+  "timelineReturnRequestedPending": "રિટર્નની વિનંતી હજી કરવાની બાકી છે",
+  "timelineReturnReceivedDone": "વિક્રેતા દ્વારા રિટર્ન પ્રાપ્ત થયું",
+  "timelineReturnReceivedPending": "વિક્રેતા દ્વારા રિટર્ન હજી પ્રાપ્ત થવાનું બાકી છે",
+  "timelineRefundIssuedDone": "રિફંડ પ્રોસેસ થયું",
+  "timelineRefundIssuedPending": "રિફંડ હજી પ્રોસેસ થવાનું બાકી છે",
+  "orderTrackStepConfirmed": "ઓર્ડર પુષ્ટિ થયો",
+  "orderTrackStepShipped": "મોકલાયો",
+  "orderTrackStepDelivery": "ડિલિવરી",
+  "orderTrackSeeAllUpdates": "બધા અપડેટ જુઓ",
+  "viewReturnTimeline": "રિટર્ન ટાઇમલાઇન જુઓ",
+  "returnStepRequestedDone": "તમારી રિટર્ન વિનંતી નોંધાઈ ગઈ છે.",
+  "returnStepRequestedPending": "રિટર્ન વિનંતી હજી નોંધાઈ નથી.",
+  "returnStepApprovedDone": "વિક્રેતાએ તમારું રિટર્ન મંજૂર કર્યું.",
+  "returnStepApprovedPending": "વિક્રેતા દ્વારા રિટર્ન મંજૂરીની રાહ છે.",
+  "returnStepPickedUpDone": "વસ્તુ ઉપાડી લેવાઈ છે.",
+  "returnStepPickedUpPending": "વસ્તુ હજી ઉપાડવાની બાકી છે.",
+  "returnStepReceivedDone": "વિક્રેતાને વસ્તુ મળી ગઈ.",
+  "returnStepReceivedPending": "વસ્તુ હજી વિક્રેતા સુધી પહોંચવાની બાકી છે.",
+  "returnStepRefundedDone": "તમારું રિફંડ જારી કરી દેવાયું છે.",
+  "returnStepRefundedPending": "વસ્તુ મળ્યા પછી રિફંડ જારી કરવામાં આવશે.",
+  "orderTrackSummaryPlaced": "તમારો ઓર્ડર આપી દેવાયો છે",
+  "orderTrackSummaryConfirmed": "તમારો ઓર્ડર પુષ્ટિ થયો છે",
+  "orderTrackSummaryPreparing": "વિક્રેતા તમારો ઓર્ડર તૈયાર કરી રહ્યા છે",
+  "orderTrackSummaryShipped": "તમારો ઓર્ડર રસ્તામાં છે",
+  "orderTrackSummaryDelivered": "તમારો ઓર્ડર ડિલિવર થઈ ગયો છે",
+  "orderTrackSummaryReturned": "તમારું રિટર્ન પ્રગતિમાં છે",
+  "orderTrackSummaryRefunded": "તમારું રિફંડ પ્રોસેસ થઈ ગયું છે",
+  "appTitle": "હાયપર લોકલ",
+  "appName": "હાયપર લોકલ",
+  "welcome": "સ્વાગત છે",
+  "login": "લૉગિન",
+  "register": "રજિસ્ટર કરો",
+  "email": "ઈમેલ",
+  "password": "પાસવર્ડ",
+  "confirmPassword": "પાસવર્ડની પુષ્ટિ કરો",
+  "forgotPassword": "પાસવર્ડ ભૂલી ગયા?",
+  "dontHaveAccount": "ખાતું નથી?",
+  "alreadyHaveAccount": "પહેલેથી ખાતું છે?",
+  "signUp": "સાઇન અપ કરો",
+  "signIn": "સાઇન ઇન કરો",
+  "home": "હોમ",
+  "profile": "પ્રોફાઇલ",
+  "dashboard": "ડૅશબોર્ડ",
+  "settings": "સેટિંગ્સ",
+  "language": "ભાષા",
+  "selectLanguage": "ભાષા પસંદ કરો",
+  "arabic": "અરબી",
+  "french": "ફ્રેન્ચ",
+  "hindi": "હિન્દી",
+  "gujarati": "ગુજરાતી",
+  "telugu": "તેલુગુ",
+  "location": "સ્થળ",
+  "selectLocation": "સ્થળ પસંદ કરો",
+  "currentLocation": "વર્તમાન સ્થળ",
+  "search": "શોધો",
+  "categories": "શ્રેણીઓ",
+  "nearby": "નજીકમાં",
+  "logout": "લૉગ આઉટ",
+  "cancel": "રદ કરો",
+  "save": "સાચવો",
+  "ok": "ઓકે",
+  "error": "ભૂલ",
+  "success": "સફળતા",
+  "loading": "લોડ થઈ રહ્યું છે...",
+  "noData": "કોઈ ડેટા ઉપલબ્ધ નથી",
+  "retry": "પુનઃ પ્રયાસ કરો",
+  "networkError": "નેટવર્ક ભૂલ",
+  "tryAgain": "કૃપા કરીને ફરી પ્રયાસ કરો",
+  "permissionDenied": "પરવાનગી નકારવામાં આવી",
+  "locationPermissionRequired": "સ્થાન પરવાનગી જરૂરી છે",
+  "enableLocation": "કૃપા કરીને સ્થાન સેવાઓ સક્રિય કરો",
+  "appearance": "દેખાવ",
+  "changeAppTheme": "અપ્લિકેશન થીમ બદલો",
+  "systemMode": "સિસ્ટમ મોડ",
+  "lightMode": "લાઇટ મોડ",
+  "darkMode": "ડાર્ક મોડ",
+  "apply": "લાગુ કરો",
+  "current": "વર્તમાન",
+  "cart": "કાર્ટ",
+  "viewCouponOffers": "કૂપન અને ઓફર્સ જુઓ",
+  "placeOrder": "ઓર્ડર આપો",
+  "selectPaymentMethod": "ચુકવણી પદ્ધતિ પસંદ કરો",
+  "payUsing": "આના વડે ચૂકવો",
+  "yourCartIsEmpty": "તમારી કાર્ટ ખાલી છે",
+  "yourShoppingBagIsEmpty": "તમારી શોપિંગ બેગ ખાલી છે",
+  "looksLikeYouHaventAddedAnythingYet": "લાગે છે કે તમે હજુ કંઈ ઉમેર્યું નથી",
+  "browseProducts": "ઉત્પાદનો બ્રાઉઝ કરો",
+  "addMoreItemsTapped": "વધુ વસ્તુઓ ઉમેરો ટેપ!",
+  "removeItem": "વસ્તુ દૂર કરો",
+  "areYouSureYouWantToRemoveItemFromCart": "શું તમે {item} કાર્ટમાંથી દૂર કરવા માંગો છો?",
+  "@areYouSureYouWantToRemoveItemFromCart": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      }
+    }
+  },
+  "delete": "મટાવો",
+  "remove": "દૂર કરો",
+  "deliversHere": "અહીં ડિલિવરી કરે છે",
+  "notDeliverable": "ડિલિવરી શક્ય નથી",
+  "closed": "બંધ",
+  "shippingLabel": "શિપિંગ",
+  "promo": "પ્રોમો",
+  "promoNote": "આ પ્રોમો તમારા ઓર્ડર પર લાગુ કરાયો છે. છૂટ તમારી કુલ રકમમાં દર્શાવેલ છે.",
+  "applied": "લાગુ કરાયો",
+  "off": "છૂટ",
+  "cashbackLabel": "કેશબેક",
+  "moreLabel": "વધુ",
+  "lessLabel": "ઓછું",
+  "addMoreToAvailOffer": "આ ઓફર મેળવવા માટે {amount} વધુ ઉમેરો",
+  "@addMoreToAvailOffer": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "flatDiscountOnOrdersAbove": "{minOrder} થી વધુના ઓર્ડર પર સીધી {discount} છૂટ",
+  "@flatDiscountOnOrdersAbove": {
+    "placeholders": {
+      "discount": {
+        "type": "String"
+      },
+      "minOrder": {
+        "type": "String"
+      }
+    }
+  },
+  "percentOffOnOrdersAbove": "{minOrder} થી વધુના ઓર્ડર પર {percent}% છૂટ",
+  "@percentOffOnOrdersAbove": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      },
+      "minOrder": {
+        "type": "String"
+      }
+    }
+  },
+  "uptoCashbackOnOrdersAbove": "{minOrder} થી વધુના ઓર્ડર પર {amount} સુધીનું કેશબેક",
+  "@uptoCashbackOnOrdersAbove": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "minOrder": {
+        "type": "String"
+      }
+    }
+  },
+  "validTill": "{date} સુધી માન્ય",
+  "@validTill": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "maxDiscount": "મહત્તમ છૂટ {amount}",
+  "@maxDiscount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "percentOff": "{percent}% છૂટ",
+  "@percentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "saveForLater": "પછી માટે સાચવો",
+  "billDetails": "બિલ વિગતો",
+  "itemsTotal": "વસ્તુઓ કુલ",
+  "saved": "સાચવાયેલ",
+  "youreSavingOnOrder": "તમે આ ઓર્ડર પર {amount} બચાવી રહ્યા છો",
+  "@youreSavingOnOrder": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "deliveryCharge": "ડિલિવરી ચાર્જ",
+  "free": "મફત",
+  "perStoreDropOffFees": "પ્રતિ સ્ટોર ડ્રોપ ઓફ ફી",
+  "handlingCharge": "હેન્ડલિંગ ચાર્જ",
+  "promoCode": "પ્રોમો કોડ",
+  "promoDiscount": "પ્રોમો ડિસ્કાઉન્ટ",
+  "removeCoupon": "કૂપન દૂર કરો",
+  "totalPayable": "કુલ ચૂકવવાપાત્ર",
+  "grandTotal": "કુલ રકમ",
+  "yourTotalSavings": "તમારી કુલ બચત",
+  "downloadInvoice": "ઇન્વોઇસ ડાઉનલોડ કરો",
+  "myOrders": "મારા ઓર્ડર્સ",
+  "noOrdersYet": "હજુ કોઈ ઓર્ડર નથી",
+  "failedToLoadOrders": "ઓર્ડર્સ લોડ કરવામાં નિષ્ફળ",
+  "rateOrder": "ઓર્ડર રેટ કરો",
+  "howWasYourOrder": "તમારો ઓર્ડર કેવો હતો?",
+  "orderSummary": "ઓર્ડર સારાંશ",
+  "orderDetailsRefreshed": "ઓર્ડર વિગતો તાજી કરવામાં આવી",
+  "rateYourExperience": "તમારા અનુભવને રેટ કરો",
+  "failedToLoadOrderDetails": "ઓર્ડર વિગતો લોડ કરવામાં નિષ્ફળ",
+  "noItemsToDisplay": "દર્શાવવા માટે કોઈ વસ્તુઓ નથી",
+  "deleteReview": "સમીક્ષા મટાવો?",
+  "thisActionCannotBeUndone": "આ ક્રિયા રદ કરી શકાય નહીં.",
+  "edit": "સંપાદિત કરો",
+  "cancelItem": "વસ્તુ રદ કરો",
+  "cancellationPeriodPassed": "રદ કરવાનો સમય પૂરો થઈ ગયો છે",
+  "areYouSureYouWantToCancelThisItem": "શું તમે આ વસ્તુ રદ કરવા માંગો છો?",
+  "cancelReturnRequest": "રિટર્ન વિનંતી રદ કરો",
+  "areYouSureYouWantToCancelThisReturnRequest": "શું તમે આ રિટર્ન વિનંતી રદ કરવા માંગો છો?",
+  "cancelReturnRequestButton": "રિટર્ન વિનંતી રદ કરો",
+  "cancelItemButton": "વસ્તુ રદ કરો",
+  "howWasYourShoppingExperience": "તમારો ખરીદી અનુભવ કેવો હતો?",
+  "trackDelivery": "ડિલિવરી ટ્રેક કરો",
+  "estimatedDelivery": "અંદાજિત ડિલિવરી",
+  "myWishlist": "મારી વિશ લિસ્ટ",
+  "createNewWishlist": "નવી વિશ લિસ્ટ બનાવો",
+  "createNewWishlistTitle": "નવી વિશ લિસ્ટ બનાવો",
+  "enterWishlistName": "વિશ લિસ્ટ નામ પ્રવેશ કરો",
+  "pleaseEnterAWishlistName": "કૃપા કરીને વિશ લિસ્ટ નામ પ્રવેશ કરો",
+  "create": "બનાવો",
+  "update": "અપડેટ કરો",
+  "editWishlist": "વિશ લિસ્ટ સંપાદિત કરો",
+  "noWishlistsYet": "હજુ કોઈ વિશ લિસ્ટ નથી",
+  "noOtherWishlistsAvailable": "કોઈ અન્ય વિશ લિસ્ટ ઉપલબ્ધ નથી",
+  "noProductsFound": "કોઈ ઉત્પાદનો મળ્યા નથી",
+  "somethingWentWrong": "કંઈક ખોટું થયું",
+  "deleteWishlistName": "{wishlistName} મટાવો",
+  "@deleteWishlistName": {
+    "placeholders": {
+      "wishlistName": {
+        "type": "String"
+      }
+    }
+  },
+  "myAddresses": "મારા સરનામાં",
+  "addAddress": "સરનામું ઉમેરો",
+  "deleteAddress": "સરનામું મટાવો",
+  "addressDeleted": "સરનામું કાઢી નાખ્યું",
+  "undo": "પૂર્વવત્ કરો",
+  "areYouSureYouWantToDeleteThisAddress": "શું તમે આ સરનામું મટાવવા માંગો છો?",
+  "near": "નજીક",
+  "noAddressSelected": "કોઈ સરનામું પસંદ કરવામાં આવ્યું નથી",
+  "pleaseSelectAnImageAndEnterYourName": "કૃપા કરીને એક ચિત્ર પસંદ કરો અને તમારું નામ પ્રવેશ કરો",
+  "loadingProfile": "પ્રોફાઇલ લોડ થઈ રહી છે...",
+  "saveChanges": "વદતરો સાચવો",
+  "editProfile": "પ્રોફાઇલ સંપાદિત કરો",
+  "labelCopiedToClipboard": "{label} ક્લિપબોર્ડ પર કૉપી કરાયું",
+  "@labelCopiedToClipboard": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "yourDeliveryAddress": "તમારું ડિલિવરી સરનામું",
+  "shoppingList": "ખરીદી યાદી",
+  "aboutUs": "અમારા વિશે",
+  "termsCondition": "નિયમો અને શરતો",
+  "privacyPolicy": "ગોપનીયતા નીતિ",
+  "refundPolicy": "રિફંડ નીતિ",
+  "shippingPolicy": "શિપિંગ નીતિ",
+  "deleteAccount": "ખાતું મટાવો",
+  "pleaseEnterYourName": "કૃપા કરીને તમારું નામ પ્રવેશ કરો",
+  "nameMustBeAtLeast2Characters": "નામ ઓછામાં ઓછું 2 અક્ષરોનું હોવું જોઈએ",
+  "productDetails": "ઉત્પાદન વિગતો",
+  "description": "વર્ણન",
+  "specification": "વિશિષ્ટતા",
+  "reviews": "સમીક્ષાઓ",
+  "similarProducts": "સમાન ઉત્પાદનો",
+  "specifications": "વિશિષ્ટતાઓ",
+  "customerReviews": "ગ્રાહક સમીક્ષાઓ",
+  "seeAll": "બધું જુઓ",
+  "addYourReview": "તમારી સમીક્ષા ઉમેરો",
+  "rateThisProduct": "આ ઉત્પાદનને રેટ કરો",
+  "submitReview": "સમીક્ષા સબમિટ કરો",
+  "questionAndAnswers": "પ્રશ્ન અને જવાબો",
+  "askAQuestion": "પ્રશ્ન પૂછો",
+  "submit": "સબમિટ કરો",
+  "questionSubmittedSuccessfully": "પ્રશ્ન સફળતાપૂર્વક સબમિટ કરાયો!",
+  "pleaseSelectVariant": "કૃપા કરીને વેરિયન્ટ પસંદ કરો",
+  "viewProductDetails": "ઉત્પાદન વિગતો જુઓ",
+  "productAddedToCartSuccessfully": "ઉત્પાદન કાર્ટમાં સફળતાપૂર્વક ઉમેરાયું!",
+  "failedToAddProduct": "ઉત્પાદન ઉમેરવામાં નિષ્ફળ: {error}",
+  "@failedToAddProduct": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "outOfStock": "સ્ટોકમાં નથી",
+  "storeClosed": "બંધ",
+  "productVariants": "ઉત્પાદન વેરિયન્ટ્સ",
+  "selectVariant": "વેરિયન્ટ પસંદ કરો",
+  "add": "ઉમેરો",
+  "noProductFound": "કોઈ ઉત્પાદન મળ્યું નથી",
+  "filters": "ફિલ્ટર્સ",
+  "sort": "વર્ગીકરણ",
+  "popularity": "લોકપ્રિયતા",
+  "searchResultFor": "\"{title}\" માટે શોધ પરિણામ",
+  "@searchResultFor": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "relevanceDefault": "પ્રસંગિકતા (ડિફોલ્ટ)",
+  "priceLowToHigh": "કિંમત (ઓછીથી વધુ)",
+  "priceHighToLow": "કિંમત (વધુથી ઓછી)",
+  "discountHighToLow": "ડિસ્કાઉન્ટ (વધુથી ઓછી)",
+  "items": "વસ્તુઓ",
+  "startTypingForSuggestions": "સૂચનાઓ માટે ટાઇપિંગ શરૂ કરો",
+  "noSuggestionsFound": "કોઈ સૂચનાઓ મળી નથી",
+  "speak": "બોલો",
+  "trySayingSomething": "કંઈક કહેવાનો પ્રયાસ કરો",
+  "speechStoppedTryAgain": "ભાષણ બંધ થયું. ફરી પ્રયાસ કરો.",
+  "close": "બંધ કરો",
+  "searchProducts": "ઉત્પાદનો શોધો...",
+  "searchForProducts": "ઉત્પાદનો માટે શોધો",
+  "typeProductNameBrandOrCategory": "શરૂ કરવા માટે ઉત્પાદન નામ, બ્રાન્ડ અથવા શ્રેણી ટાઇપ કરો",
+  "searching": "શોધી રહ્યા છીએ...",
+  "trySearchingWithDifferentKeywords": "વિવિધ કીવર્ડ્સ સાથે શોધવાનો પ્રયાસ કરો",
+  "nearbyStores": "નજીકના સ્ટોર્સ",
+  "noStoresFoundNearby": "નજીક કોઈ સ્ટોર્સ મળ્યા નથી.",
+  "searchInStore": "{storeName} માં શોધો",
+  "@searchInStore": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "savedForLater": "પછી માટે સાચવાયેલ",
+  "moveToCart": "કાર્ટમાં સ્થળાંતર કરો",
+  "addFirstItem": "પ્રથમ વસ્તુ ઉમેરો",
+  "resultFor": "\"{title}\" માટે પરિણામ",
+  "@resultFor": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "addMoney": "પૈસા ઉમેરો",
+  "enterAmount": "રકમ પ્રવેશ કરો",
+  "note": "નોંધ:",
+  "hyperlocalWalletBalanceValidFor1Year": "હાયપરલોકલ વૉલેટ બેલેન્સ પૈસા ઉમેરવાની તારીખથી 1 વર્ષ માટે માન્ય છે",
+  "hyperlocalWalletBalanceCannotBeTransferred": "આરબીઆઈ માર્ગદર્શિકાઓ મુજબ હાયપરલોકલ વૉલેટ બેલેન્સ બેંક ખાતામાં ટ્રાન્સફર કરી શકાય નથી",
+  "pleaseEnterAnAmountGreaterThanOrEqualTo1": "કૃપા કરીને 1 અથવા તેનાથી વધુ રકમ પ્રવેશ કરો",
+  "transactions": "વ્યવહારો",
+  "promoCodeCoupons": "પ્રોમો કોડ અને કૂપન્સ",
+  "support": "સપોર્ટ",
+  "callUs": "અમને કૉલ કરો",
+  "phoneNumber": "ફોન નંબર",
+  "emailUs": "અમને ઈમેલ કરો",
+  "tapToContact": "સંપર્ક માટે ટેપ કરો",
+  "rateStoreName": "{storeName} ને રેટ કરો",
+  "@rateStoreName": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "editYourFeedback": "તમારો પ્રતિસાદ સંપાદિત કરો",
+  "howWasYourExperience": "તમારો અનુભવ કેવો હતો?",
+  "tapToRate": "રેટ કરવા માટે ટેપ કરો",
+  "star": "{rating} સ્ટાર",
+  "@star": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "stars": "{rating} સ્ટાર્સ",
+  "@stars": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "titleRequired": "શીર્ષક *",
+  "egGreatService": "ઉ. , મહાન સેવા!",
+  "descriptionRequired": "વર્ણન *",
+  "shareMoreDetails": "વધુ વિગતો શેર કરો...",
+  "submitFeedback": "પ્રતિસાદ સબમિટ કરો",
+  "updateFeedback": "પ્રતિસાદ અપડેટ કરો",
+  "updating": "અપડેટ થઈ રહ્યું છે...",
+  "submitting": "સબમિટ થઈ રહ્યું છે...",
+  "deleteFeedback": "પ્રતિસાદ મટાવો",
+  "areYouSureYouWantToDeleteThisFeedback": "શું તમે આ પ્રતિસાદ મટાવવા માંગો છો?",
+  "pleaseGiveARating": "કૃપા કરીને રેટિંગ આપો",
+  "pleaseEnterATitle": "કૃપા કરીને શીર્ષક પ્રવેશ કરો",
+  "pleaseEnterADescription": "કૃપા કરીને વર્ણન પ્રવેશ કરો",
+  "deliveryType": "ડિલિવરી પ્રકાર",
+  "rushDelivery": "ઝડપી ડિલિવરી",
+  "prioritizedDeliveryForYourUrgentNeeds": "તમારી તાત્કાલિક જરૂરિયાતો માટે પ્રાથમિકતા આપેલી ડિલિવરી.",
+  "regularDelivery": "નિયમિત ડિલિવરી",
+  "standardDeliveryWithNoExtraCharges": "કોઈ વધારાના ચાર્જ વિના સ્ટાન્ડર્ડ ડિલિવરી.",
+  "deliverTo": "ડિલિવર કરો",
+  "change": "બદલો",
+  "noInternetConnection": "ઇન્ટરનેટ કનેક્શન નથી",
+  "appUnderMaintenance": "અપ્લિકેશન જાળવણી હેઠળ",
+  "noOrderFound": "કોઈ ઓર્ડર મળ્યું નથી",
+  "noSearchResults": "કોઈ શોધ પરિણામો નથી",
+  "microphoneUnavailable": "માઇક્રોફોન પરવાનગી અથવા સ્પીચ સેવા ઉપલબ્ધ નથી",
+  "speakNow": "હવે બોલો",
+  "listening": "સાંભળી રહ્યા છીએ...",
+  "noSpeechDetected": "કોઈ ભાષણ શોધાયું નથી",
+  "locationServices": "સ્થાન સેવાઓ",
+  "appPermission": "અપ્લિકેશન પરવાનગી",
+  "continueWithGoogle": "ગૂગલ સાથે ચાલુ રાખો",
+  "continueWithApple": "એપલ સાથે ચાલુ રાખો",
+  "continueWithMobile": "મોબાઇલ સાથે ચાલુ રાખો",
+  "reviewsRatings": "સમીક્ષાઓ અને રેટિંગ્સ",
+  "frequentlyAskedQuestions": "વારંવાર પૂછવામાં આવતા પ્રશ્નો",
+  "dialog": "સંવાદ",
+  "looksLikeTheStoreCatchingSomeRest": "લાગે છે કે સ્ટોર આરામ કરી રહ્યો છે. થોડી વાર પછી આવો!",
+  "addressLine1": "સરનામું લાઇન 1",
+  "addressLine2Optional": "સરનામું લાઇન 2 (વૈકલ્પિક)",
+  "country": "દેશ",
+  "state": "રાજ્ય",
+  "city": "શહેર",
+  "zipcode": "પિન કોડ",
+  "landmark": "લેન્ડમાર્ક",
+  "mobileNumber": "મોબાઇલ નંબર",
+  "soldBy": "વેચાય છે:",
+  "searchAnAreaOrAddress": "વિસ્તાર અથવા સરનામું શોધો",
+  "describeTheIssue": "સમસ્યાનું વર્ણન કરો",
+  "writeYourReviewHere": "અહીં તમારી સમીક્ષા લખો...",
+  "typeYourQuestionHere": "અહીં તમારો પ્રશ્ન ટાઇપ કરો...",
+  "enterReviewTitle": "સમીક્ષા શીર્ષક પ્રવેશ કરો",
+  "shareYourThoughts": "તમારા વિચારો શેર કરો...",
+  "searchForAreaStreetName": "વિસ્તાર, રસ્તાનું નામ માટે શોધો...",
+  "pleaseSelectADeliveryAddressFirst": "કૃપા કરીને પહેલા ડિલિવરી સરનામું પસંદ કરો",
+  "paymentMethodNotSelected": "ચુકવણી પદ્ધતિ પસંદ કરવામાં આવી નથી",
+  "inclusiveOfAllTax": "(બધા કર સહિત)",
+  "brand": "બ્રાન્ડ",
+  "packOf": "પેક ઓફ",
+  "category": "શ્રેણી",
+  "madeIn": "બનાવ્યું",
+  "indicator": "સૂચક",
+  "guaranteePeriod": "ગેરંટી અવધિ",
+  "warrantyPeriod": "વોરંટી અવધિ",
+  "returnable": "રિટર્ન કરી શકાય",
+  "na": "એન/એ",
+  "yes": "હા",
+  "noDescriptionAvailable": "કોઈ વર્ણન ઉપલબ્ધ નથી.",
+  "wallet": "વૉલેટ",
+  "wishlist": "વિશ લિસ્ટ",
+  "stores": "સ્ટોર્સ",
+  "account": "ખાતું",
+  "paymentMethod": "ચુકવણી પદ્ધતિ",
+  "currentLanguage": "વર્તમાન ભાષા",
+  "promoApplied": "પ્રોમો લાગુ",
+  "on": "ચાલુ",
+  "rushDeliveryActive": "ઝડપી ડિલિવરી સક્રિય",
+  "cashbackApplied": "કેશબેક લાગુ",
+  "instantDiscountApplied": "તાત્કાલિક ડિસ્કાઉન્ટ લાગુ",
+  "willBeAdded": "ઉમેરવામાં આવશે",
+  "areYouSure": "શું તમને ખાતરી છે?",
+  "clearCartConfirm": "શું તમે ખરેખર કાર્ટ સાફ કરવા માંગો છો?",
+  "no": "ના",
+  "yesClear": "હા, સાફ કરો",
+  "logoutConfirmation": "શું તમે લૉગ આઉટ કરવા માંગો છો?",
+  "maxCartItemLimitReached": "તમે મહત્તમ કાર્ટ વસ્તુ મર્યાદા પર પહોંચી ગયા છો",
+  "all": "બધા",
+  "shopByCategories": "શ્રેણીઓ દ્વારા ખરીદી કરો",
+  "topBrands": "ટોચની બ્રાન્ડ્સ",
+  "addItemsToGetStarted": "શરૂ કરવા માટે વસ્તુઓ ઉમેરો",
+  "yourShoppingListIsEmpty": "તમારી ખરીદીની સૂચિ ખાલી છે",
+  "listItem": "સૂચિની વસ્તુ",
+  "itemsAdded": "વસ્તુઓ ઉમેરાઈ",
+  "startShopping": "ખરીદી શરૂ કરો",
+  "typeItemName": "વસ્તુનું નામ લખો...",
+  "pleaseAdd1ItemInShoppingList": "કૃપા કરીને તમારી ખરીદીની સૂચિમાં ઓછામાં ઓછી 1 વસ્તુ ઉમેરો",
+  "selectDeliveryLocation": "ડિલિવરી સ્થાન પસંદ કરો",
+  "searchForAreaStreet": "વિસ્તાર, શેરીનું નામ શોધો...",
+  "useCurrentLocation": "વર્તમાન સ્થાનનો ઉપયોગ કરો",
+  "useCurrentLocationHint": "See delivery dates for your area",
+  "gettingYourLocation": "Getting your location…",
+  "couldNotGetLocation": "Couldn't get your current location",
+  "setAsDefaultAddress": "Set as default delivery address",
+  "defaultAddress": "Default",
+  "myAccount": "My account",
+  "manage": "Manage",
+  "others": "Others",
+  "feedback": "Feedback",
+  "accountSettings": "Account settings",
+  "notificationSettings": "Notification settings",
+  "myTransactions": "My transactions",
+  "faq": "FAQ",
+  "memberSince": "Member since",
+  "addNewAddress": "નવું સરનામું ઉમેરો",
+  "selectDeliveryAddress": "ડિલિવરી સરનામું પસંદ કરો",
+  "addAddressToContinue": "ચાલુ રાખવા માટે સરનામું ઉમેરો",
+  "savedAddresses": "સાચવેલા સરનામાં",
+  "notLoggedIn": "લૉગ ઇન કરેલ નથી",
+  "pleaseLoginToViewYourProfile": "તમારું પ્રોફાઇલ જોવા માટે કૃપા કરીને લૉગ ઇન કરો",
+  "goToLogin": "લૉગ ઇન પર જાઓ",
+  "trackYourDelivery": "તમારી ડિલિવરી ટ્રૅક કરો",
+  "returnItem": "આઇટમ પરત કરો",
+  "failedToLoadTrackingData": "ટ્રૅકિંગ ડેટા લોડ કરવામાં નિષ્ફળ",
+  "delivered": "ડિલિવર થઈ ગયું",
+  "onTheWay": "રસ્તામાં છે",
+  "trackingLiveLocation": "લાઇવ લોકેશન ટ્રૅક કરી રહ્યું છે",
+  "arrivingIn": "પહોંચશે",
+  "mins": "મિનિટ",
+  "deliveryPartner": "ડિલિવરી પાર્ટનર",
+  "orderDetails": "ઓર્ડરની વિગતો",
+  "orderId": "ઓર્ડર ID",
+  "payment": "ચુકવણી",
+  "orderPlaced": "ઓર્ડર મુકાઈ ગયો",
+  "deliveryDetails": "ડિલિવરીની વિગતો",
+  "copiedToClipboard": "{label} ક્લિપબોર્ડ પર કૉપિ કર્યું",
+  "@copiedToClipboard": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "orderIdCopied": "ઓર્ડર ID કૉપિ કર્યું!",
+  "reasonForReturn": "પરત કરવાનું કારણ",
+  "submitReturn": "પરત સબમિટ કરો",
+  "thisProductIsNotCancelable": "આ પ્રોડક્ટ રદ કરી શકાશે નહીં",
+  "productCanNoLongerBeCancelled": "આ પ્રોડક્ટ હવે રદ કરી શકાશે નહીં",
+  "thisProductIsNotReturnable": "આ પ્રોડક્ટ પરત કરી શકાશે નહીં",
+  "returnButton": "પરત કરો",
+  "qty": "જથ્થો",
+  "moveToEllipsis": "માં ખસેડો…",
+  "addToEllipsis": "માં ઉમેરો…",
+  "locationAccessNeeded": "સ્થાન ઍક્સેસની જરૂર છે",
+  "later": "પછીથી",
+  "openSettings": "સેટિંગ્સ ખોલો",
+  "appPermissions": "એપ્લિકેશનની પરવાનગીઓ",
+  "checkingEmail": "ઇમેઇલ ચકાસી રહ્યું છે...",
+  "searchInStoreName": "{storeName} માં શોધો",
+  "@searchInStoreName": {
+    "placeholders": {
+      "storeName": {
+        "type": "String"
+      }
+    }
+  },
+  "descriptionOptional": "વર્ણન (વૈકલ્પિક)",
+  "greatService": "ઉદાહરણ તરીકે, ઉત્તમ સેવા!",
+  "fullName": "પૂરું નામ",
+  "enterYourFullName": "તમારું પૂરું નામ દાખલ કરો",
+  "enterYourEmail": "તમારો ઇમેઇલ દાખલ કરો",
+  "enterYourPhoneNumber": "તમારો ફોન નંબર દાખલ કરો",
+  "enterYourPassword": "તમારો પાસવર્ડ દાખલ કરો",
+  "confirmYourPassword": "તમારો પાસવર્ડ કન્ફર્મ કરો",
+  "emailOrPhoneNumber": "ઇમેઇલ અથવા ફોન નંબર",
+  "emailAddress": "ઇમેઇલ સરનામું",
+  "uploadImages": "છબીઓ અપલોડ કરો",
+  "tapToUploadPhotos": "ફોટા અપલોડ કરવા માટે ટૅપ કરો",
+  "helpUsUnderstandYourExperience": "તમારા અનુભવને સમજવામાં અમારી સહાય કરો",
+  "youCanUploadUpToMaxImages": "તમે ફક્ત {max} છબીઓ સુધી અપલોડ કરી શકો છો.",
+  "@youCanUploadUpToMaxImages": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "onlyRemainingMoreImagesAdded": "ફક્ત {remaining} વધુ છબી(ઓ) ઉમેરી. મહત્તમ મર્યાદા: {max}.",
+  "@onlyRemainingMoreImagesAdded": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "maxImagesAllowedExtensions": "• મહત્તમ {max} છબીઓ • {extensions} • પ્રતિ છબી {size}",
+  "@maxImagesAllowedExtensions": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      },
+      "extensions": {
+        "type": "String"
+      },
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "product": "પ્રોડક્ટ",
+  "quantity": "જથ્થો",
+  "price": "કિંમત",
+  "clearCart": "કાર્ટ સાફ કરો",
+  "clearAllItems": "બધી આઇટમ્સ દૂર કરવી છે?",
+  "allItemsWillBeRemovedCannotBeUndone": "બધી આઇટમ્સ દૂર કરવામાં આવશે અને આ ક્રિયા પૂર્વવત્ કરી શકાશે નહીં",
+  "paymentSuccessful": "ચુકવણી સફળ!",
+  "paymentFailedOrCancelled": "ચુકવણી નિષ્ફળ અથવા રદ",
+  "failedToDeleteAddress": "સરનામું કાઢી નાખવામાં નિષ્ફળ",
+  "pressAgainToExitTheApp": "એપ્લિકેશનમાંથી બહાર નીકળવા માટે ફરીથી દબાવો",
+  "youHaveReachedMaximumLimitOfCart": "તમે કાર્ટની મહત્તમ મર્યાદાએ પહોંચી ગયા છો",
+  "sellerInformationNotAvailable": "વિક્રેતાની માહિતી ઉપલબ્ધ નથી",
+  "failedToRefreshOrderDetails": "ઓર્ડરની વિગતો રિફ્રેશ કરવામાં નિષ્ફળ",
+  "productSavedForLater": "{productName} પછી માટે સાચવવામાં આવી છે",
+  "@productSavedForLater": {
+    "placeholders": {
+      "productName": {
+        "type": "String"
+      }
+    }
+  },
+  "promoCodeAppliedOnYourCart": "તમારા કાર્ટ પર પ્રોમો કોડ લાગુ કરવામાં આવ્યો",
+  "youHaveCrossedMaximumCartAmountLimit": "તમે કાર્ટની મહત્તમ રકમની મર્યાદા વટાવી દીધી છે. કૃપા કરીને કાર્ટમાંથી કેટલીક પ્રોડક્ટ્સ દૂર કરો",
+  "feedbackSubmittedSuccessfully": "પ્રતિસાદ સફળતાપૂર્વક સબમિટ થયો!",
+  "feedbackUpdatedSuccessfully": "પ્રતિસાદ સફળતાપૂર્વક અપડેટ થયો!",
+  "paymentFailed": "ચુકવણી નિષ્ફળ",
+  "copiedToClipboardWithLabel": "{label} ક્લિપબોર્ડ પર કૉપિ કર્યું!",
+  "@copiedToClipboardWithLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterCompleteOTP": "કૃપા કરીને સંપૂર્ણ OTP દાખલ કરો",
+  "verificationIdNotFound": "ચકાસણી ID મળેલ નથી. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
+  "otpSentTo": "OTP {phoneNumber} પર મોકલવામાં આવ્યો છે",
+  "@otpSentTo": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "registrationDataNotFound": "નોંધણી ડેટા મળેલ નથી. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
+  "noAccountFoundWithEmailOrPhone": "આ ઇમેઇલ અથવા ફોન સાથે કોઈ એકાઉન્ટ મળ્યું નથી",
+  "pleaseEnterValidPhoneNumber": "કૃપા કરીને માન્ય ફોન નંબર દાખલ કરો",
+  "emailAlreadyRegistered": "ઇમેઇલ પહેલેથી જ નોંધાયેલ છે. કૃપા કરીને એક અલગ ઇમેઇલનો ઉપયોગ કરો.",
+  "pleaseEnterYourFullName": "કૃપા કરીને તમારું પૂરું નામ દાખલ કરો",
+  "pleaseEnterYourEmail": "કૃપા કરીને તમારો ઇમેઇલ દાખલ કરો",
+  "pleaseEnterAValidEmail": "કૃપા કરીને માન્ય ઇમેઇલ દાખલ કરો",
+  "pleaseEnterYourPhoneNumber": "કૃપા કરીને તમારો ફોન નંબર દાખલ કરો",
+  "pleaseEnterYourPassword": "કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો",
+  "passwordMustBeAtLeast8Characters": "પાસવર્ડ ઓછામાં ઓછા 8 અક્ષરોનો હોવો જોઈએ",
+  "pleaseConfirmYourPassword": "કૃપા કરીને તમારો પાસવર્ડ કન્ફર્મ કરો",
+  "passwordsDoNotMatch": "પાસવર્ડ્સ મેળ ખાતા નથી",
+  "otpVerified": "OTP ચકાસવામાં આવ્યું",
+  "pleaseSelectAPaymentMethodFirst": "કૃપા કરીને પહેલા ચુકવણીની પદ્ધતિ પસંદ કરો",
+  "fetchingAddress": "સરનામું મેળવી રહ્યા છીએ...",
+  "selectedLocation": "પસંદ કરેલું સ્થાન",
+  "gettingAddress": "સરનામું મેળવી રહ્યા છીએ...",
+  "unknownLocation": "અજ્ઞાત સ્થાન",
+  "deliveryNotAvailableAtThisLocation": "આ સ્થાને ડિલિવરી ઉપલબ્ધ નથી",
+  "sorryWeDontDeliverHereYet": "માફ કરશો! અમે અહીં હજુ ડિલિવરી કરતા નથી",
+  "thisLocationIsOutsideOurDeliveryZone": "આ સ્થાન હાલમાં અમારા ડિલિવરી ઝોનની બહાર છે. નજીકના વિસ્તારમાં શોધવાનો પ્રયાસ કરો અથવા પછીથી તપાસો.",
+  "addressDetails": "સરનામાની વિગતો",
+  "pleaseEnterAddressLine1": "કૃપા કરીને સરનામું લાઇન 1 દાખલ કરો",
+  "pleaseEnterCountry": "કૃપા કરીને દેશ દાખલ કરો",
+  "pleaseEnterState": "કૃપા કરીને રાજ્ય દાખલ કરો",
+  "pleaseEnterCity": "કૃપા કરીને શહેર દાખલ કરો",
+  "pleaseEnterZipcode": "કૃપા કરીને ઝિપકોડ દાખલ કરો",
+  "contactDetails": "સંપર્ક વિગતો",
+  "pleaseEnterMobileNumber": "કૃપા કરીને મોબાઇલ નંબર દાખલ કરો",
+  "saveAddressAs": "સરનામું આ રીતે સાચવો",
+  "work": "કાર્યાલય",
+  "other": "અન્ય",
+  "enterCompleteAddress": "પૂર્ણ સરનામું દાખલ કરો",
+  "confirm": "પુષ્ટિ કરો",
+  "checkingDelivery": "ડિલિવરી તપાસી રહ્યા છીએ...",
+  "confirmLocation": "સ્થાન પુષ્ટિ કરો",
+  "confirmAddressToProceed": "આગળ વધવા માટે સરનામું પુષ્ટિ કરો",
+  "addAddressToProceed": "આગળ વધવા માટે સરનામું ઉમેરો",
+  "deliveryNotAvailable": "ડિલિવરી ઉપલબ્ધ નથી",
+  "skip": "છોડો",
+  "welcomeBack": "પાછા આવવા બદલ આભાર",
+  "signInToYourAccount": "ચાલુ રાખવા માટે તમારા એકાઉન્ટમાં સાઇન ઇન કરો",
+  "verifying": "ચકાસણી કરી રહ્યા છીએ...",
+  "or": "અથવા",
+  "dontHaveAnAccount": "એકાઉન્ટ નથી? ",
+  "emailVerifiedSuccessfully": "ઇમેઇલ સફળતાપૂર્વક ચકાસાયું",
+  "phoneNumberVerifiedSuccessfully": "ફોન નંબર સફળતાપૂર્વક ચકાસાયો",
+  "thisEmailIsNotRegistered": "આ ઇમેઇલ નોંધાયેલું નથી. કૃપા કરીને પહેલા સાઇન અપ કરો.",
+  "thisPhoneNumberIsNotRegistered": "આ ફોન નંબર નોંધાયેલો નથી. કૃપા કરીને પહેલા સાઇન અપ કરો.",
+  "unableToVerifyUser": "વપરાશકર્તાની ચકાસણી કરવામાં અસમર્થ. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
+  "emailOrPhoneNumberIsRequired": "ઇમેઇલ અથવા ફોન નંબર જરૂરી છે",
+  "enterValidEmailOrPhone": "માન્ય ઇમેઇલ અથવા ફોન દાખલ કરો",
+  "passwordIsRequired": "પાસવર્ડ જરૂરી છે",
+  "passwordMustBeAtLeast6Characters": "પાસવર્ડ ઓછામાં ઓછો 6 અક્ષરોનો હોવો જોઈએ",
+  "alreadyHaveAnAccount": "પહેલેથી જ એકાઉન્ટ છે? ",
+  "createAccount": "એકાઉન્ટ બનાવો",
+  "emailAlreadyRegisteredUseDifferent": "ઇમેઇલ પહેલેથી નોંધાયેલું છે. કૃપા કરીને અલગ ઇમેઇલ વાપરો.",
+  "changeLocation": "સ્થાન બદલો",
+  "chooseAddressForDelivery": "ડિલિવરી માટે સરનામું પસંદ કરો",
+  "balance": "બેલેન્સ",
+  "tapCoinToRefresh": "રિફ્રેશ કરવા માટે સિક્કા પર ટૅપ કરો",
+  "viewTransactions": "ટ્રાન્ઝૅક્શન્સ જુઓ",
+  "verifyOtp": "OTP ચકાસો",
+  "pleaseFillDetailsCreateYourAccount": "કૃપા કરીને તમારું એકાઉન્ટ બનાવવા માટે વિગતો ભરો",
+  "emailAvailable": "ઇમેઇલ ઉપલબ્ધ છે",
+  "errorVerifyingEmail": "ઇમેઇલ ચકાસવામાં ભૂલ",
+  "pleaseAddYourDeliveryAddress": "કૃપા કરીને તમારું ડિલિવરી સરનામું ઉમેરો",
+  "areYouSureDeleteFeedback": "શું તમે ખરેખર ફીડબૅક કાઢી નાખવા માંગો છો",
+  "addTo": "ઉમેરો...",
+  "moveTo": "ખસેડો...",
+  "accountInformation": "એકાઉન્ટ માહિતી",
+  "mobile": "મોબાઇલ",
+  "rewardPoints": "રિવાર્ડ પોઇન્ટ્સ",
+  "referralCode": "રેફરલ કોડ",
+  "notProvided": "પૂરું પાડવામાં આવ્યું નથી",
+  "notAvailable": "ઉપલબ્ધ નથી",
+  "failedToLoadProfile": "પ્રોફાઇલ લોડ કરવામાં નિષ્ફળ",
+  "pleaseCheckConnection": "કૃપા કરીને તમારું કનેક્શન તપાસો અને ફરીથી પ્રયાસ કરો",
+  "noProfileDataAvailable": "કોઈ પ્રોફાઇલ ડેટા ઉપલબ્ધ નથી",
+  "giveYourDeliveryHeroFeedback": "તમારા ડિલિવરી હીરોને ફીડબૅક આપો!",
+  "editYourFeedbackFor": "{name} માટે તમારો ફીડબૅક સંપાદિત કરો",
+  "@editYourFeedbackFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "leaveFeedback": "ફીડબૅક આપો",
+  "editFeedback": "ફીડબૅક સંપાદિત કરો",
+  "editSellerFeedback": "વિક્રેતા ફીડબૅક સંપાદિત કરો",
+  "leaveSellerFeedback": "વિક્રેતા ફીડબૅક આપો",
+  "productNotApprovedBySeller": "આ પ્રોડક્ટ વિક્રેતા દ્વારા મંજૂર નથી",
+  "leaveItemFeedback": "આઇટમ ફીડબૅક આપો",
+  "cashOnDelivery": "કૅશ ઓન ડિલિવરી",
+  "paidOnline": "ઓનલાઇન ચૂકવેલ",
+  "orderPlacedOn": "{date} ના રોજ ઓર્ડર મૂકવામાં આવ્યો",
+  "@orderPlacedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "locationAccessDescription": "આ એપ્લિકેશન હાઇપર-લોકલ સેવાઓ પૂરી પાડે છે. વ્યક્તિગત ભલામણો અને સચોટ પરિણામો મેળવવા માટે સ્થાન સક્ષમ કરો.",
+  "turnOnLocationServicesDescription": "ચાલુ રાખવા માટે લોકેશન સર્વિસેઝ ચાલુ કરો અને એપ્લિકેશનને સ્થાન પરવાનગી આપો.",
+  "loadingPaymentPage": "પેમેન્ટ પેજ લોડ થઈ રહ્યું છે...",
+  "youCanUploadUpToImagesOnly": "તમે માત્ર {count} છબીઓ અપલોડ કરી શકો છો.",
+  "@youCanUploadUpToImagesOnly": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onlyMoreImagesAddedMaxLimit": "માત્ર {remaining} વધુ છબી(ઓ) ઉમેરાઈ. મહત્તમ મર્યાદા: {max}.",
+  "@onlyMoreImagesAddedMaxLimit": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "onlinePaymentMethods": "ઓનલાઇન પેમેન્ટ પદ્ધતિઓ",
+  "noCategoryFound": "કોઈ કેટેગરી મળી નથી",
+  "noStoreFound": "કોઈ સ્ટોર મળ્યું નથી",
+  "wereNotHereYet": "અમે અહીં હજુ આવ્યા નથી",
+  "weCouldntFindAnyCategories": "અમને કોઈ કેટેગરીઓ મળી નથી.",
+  "weCouldntFindAnyStoreInYourSelectLocation": "તમારા પસંદ કરેલા સ્થાનમાં અમને કોઈ સ્ટોર મળ્યું નથી.",
+  "phoneNumberCopied": "ફોન નંબર ક્લિપબોર્ડ પર કૉપી થયો!",
+  "emailCopied": "ઇમેઇલ ક્લિપબોર્ડ પર કૉપી થયો!",
+  "pleaseWaitBeforeResending": "ફરીથી મોકલતા પહેલાં કૃપા કરીને રાહ જુઓ.",
+  "toPay": "ચૂકવવાનું:",
+  "currentlyUnavailable": "હાલમાં અનુપલબ્ધ",
+  "noStoresOrProductsAreAvailableInThisAreaRightNow": "આ વિસ્તારમાં હાલમાં કોઈ સ્ટોર્સ અથવા પ્રોડક્ટ્સ ઉપલબ્ધ નથી.",
+  "checkConnectionAndTryAgain": "કૃપા કરીને તમારું કનેક્શન તપાસો અને ફરીથી પ્રયાસ કરો.",
+  "weWillBeBackSoon": "અમે ટૂંક સમયમાં પાછા આવીશું. થોભો!",
+  "noOrdersYetDescription": "એવું લાગે છે કે તમારી પાસે હજુ કોઈ ઓર્ડર નથી.",
+  "tryAdjustingSearchTerms": "શોધ શબ્દોને ગોઠવવાનો પ્રયાસ કરો.",
+  "noProductMatchingSearch": "અમને તમારી શોધ સાથે મેળ ખાતી કોઈ પ્રોડક્ટ્સ મળી નથી.",
+  "feedbackDeletedSuccessfully": "ફીડબૅક સફળતાપૂર્વક કાઢી નાખવામાં આવ્યો!",
+  "rateDeliveryHero": "ડિલિવરી હીરોને રેટ કરો",
+  "howWasTheDelivery": "ડિલિવરી કેવી હતી?",
+  "egSuperFastDelivery": "દા.ત., સુપર ઝડપી ડિલિવરી!",
+  "youMightAlsoLike": "તમને આ પણ ગમશે",
+  "storeCurrentlyClosed": "સ્ટોર અત્યારે બંધ છે",
+  "minimumQuantityRequired": "ન્યૂનતમ {minQty} જથ્થો જરૂરી છે",
+  "@minimumQuantityRequired": {
+    "placeholders": {
+      "minQty": {}
+    }
+  },
+  "maximumQuantityAllowed": "મહત્તમ {maxQty} વસ્તુઓની છૂટ છે",
+  "@maximumQuantityAllowed": {
+    "placeholders": {
+      "maxQty": {}
+    }
+  },
+  "quantityMustMatchStepFromMinimum": "જથ્થો {minQty} અથવા {minQty} વત્તા {stepSize} નો ગુણાંક હોવો જોઈએ",
+  "@quantityMustMatchStepFromMinimum": {
+    "placeholders": {
+      "minQty": {},
+      "stepSize": {}
+    }
+  },
+  "onlyXItemsInStock": "સ્ટોકમાં ફક્ત {stock} વસ્તુઓ ઉપલબ્ધ છે",
+  "@onlyXItemsInStock": {
+    "placeholders": {
+      "stock": {}
+    }
+  },
+  "minimumCartAmountRequired": "ન્યૂનતમ ચેકઆઉટ {miniCheckoutAmount} સુધી પહોંચવા માટે બીજું {minAmount} ઉમેરો.",
+  "@minimumCartAmountRequired": {
+    "placeholders": {
+      "minAmount": {},
+      "miniCheckoutAmount": {}
+    }
+  },
+  "youHaveReachedMaximumLimitOfTheCart": "તમે કાર્ટની મહત્તમ મર્યાદા પર પહોંચી ગયા છો",
+  "onlyOneStoreAtATime": "તમે એક સમયે ફક્ત એક જ સ્ટોર પરથી ઓર્ડર કરી શકો છો",
+  "onlyFewLeft": "ફક્ત {stock} બાકી છે!",
+  "@onlyFewLeft": {
+    "placeholders": {
+      "stock": {}
+    }
+  },
+  "inStock": "સ્ટોકમાં છે",
+  "noTransactionYet": "હજુ સુધી કોઈ વ્યવહાર થયો નથી",
+  "noTransactionDescriptionMsg": "જ્યારે તમે તમારો પહેલો વ્યવહાર કરશો ત્યારે",
+  "noTransactionDescriptionSecondaryMsg": "તમારી વૉલેટ પ્રવૃત્તિ અહીં દેખાશે.",
+  "cannotAddMoreThanXItems": "તમે તમારા કાર્ટમાં ફક્ત {remaining} વધુ વસ્તુઓ ઉમેરી શકો છો.",
+  "@cannotAddMoreThanXItems": {
+    "description": "Shown when user tries to add items beyond cart limit",
+    "placeholders": {
+      "remaining": {}
+    }
+  },
+  "youCanAddOnlyXMoreItems": "તમે ફક્ત {count} વધુ વસ્તુઓ ઉમેરી શકો છો.",
+  "@youCanAddOnlyXMoreItems": {
+    "description": "Simpler version of max items warning",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "cartIsAlreadyAtMaximumLimit": "તમારા કાર્ટમાં વસ્તુઓની મહત્તમ મર્યાદા ({maxAllowed}) થઈ ગઈ છે.",
+  "@cartIsAlreadyAtMaximumLimit": {
+    "placeholders": {
+      "maxAllowed": {}
+    }
+  },
+  "cannotAddFromDifferentStore": "તમે ફક્ત એક જ સ્ટોરમાંથી વસ્તુઓ ઉમેરી શકો છો. કૃપા કરીને તમારું કાર્ટ ખાલી કરો અથવા આ સ્ટોરમાંથી વસ્તુઓ પસંદ કરો.",
+  "cartAlreadyContainsMultipleStores": "તમારા કાર્ટમાં પહેલેથી જ વિવિધ સ્ટોર્સની વસ્તુઓ છે. કૃપા કરીને વર્તમાન ઓર્ડર પૂરો કરો અથવા પહેલા કાર્ટ ખાલી કરો.",
+  "inCart": "કાર્ટમાં",
+  "thisActionIsPermanent": "આ ક્રિયા કાયમી છે.",
+  "allYourDataWillBeLostForever": "તમારો બધો ડેટા હંમેશ માટે ખોવાઈ જશે.",
+  "addYourFirstAddressToStart": "શરૂ કરવા માટે તમારું પહેલું સરનામું ઉમેરો",
+  "noAddressFound": "કોઈ સરનામું મળ્યું નથી",
+  "includingAllTax": "(તમામ ટેક્સ સહિત)",
+  "dataPlaceholder": "ડેટા",
+  "writeYourNoteHere": "તમારી નોંધ અહીં લખો...",
+  "clearingYourCart": "કાર્ટ ખાલી થઈ રહ્યું છે...",
+  "imagesLabel": "છબીઓ",
+  "imagesSubtitle": "JPG, PNG (મહત્તમ 5MB)",
+  "pdfDocumentLabel": "PDF દસ્તાવેજ",
+  "pdfDocumentSubtitle": "PDF ફાઇલો (મહત્તમ 10MB)",
+  "wordDocumentLabel": "Word દસ્તાવેજ",
+  "wordDocumentSubtitle": "DOCX ફાઇલો (મહત્તમ 10MB)",
+  "cannotOpenFile": "ફાઇલ ખોલી શકાતી નથી: {url}",
+  "@cannotOpenFile": {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "errorOpeningAttachment": "જોડાણ ખોલવામાં ભૂલ: {error}",
+  "@errorOpeningAttachment": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "paystackPaymentTitle": "Paystack ચુકવણી",
+  "enableLocationTitle": "લોકેશન ચાલુ કરો",
+  "failed": "નિષ્ફળ",
+  "youWillBeResponsible": "તમે જવાબદાર રહેશો",
+  "deleteWishlistConfirmation": "શું તમે ખરેખર આ વિશલિસ્ટ કાઢી નાખવા માંગો છો?",
+  "noReviewsAvailable": "કોઈ રિવ્યુ ઉપલબ્ધ નથી",
+  "searchForStore": "સ્ટોર શોધો",
+  "getStarted": "શરૂ કરો",
+  "next": "આગળ",
+  "introPage1Title": "વિશ્વાસ સાથે ખરીદી કરો",
+  "introPage1Description": "સુરક્ષિત ચુકવણી અને ઝડપી ડિલિવરી સાથે વિશ્વસનીય વિક્રેતાઓ પાસેથી હજારો ઉત્પાદનો શોધો.",
+  "introPage2Title": "તમારા ઓર્ડરને ટ્રૅક કરો",
+  "introPage2Description": "રીઅલ-ટાઇમ ટ્રેકિંગ સાથે અપડેટ રહો અને તમારા ઓર્ડરની સ્થિતિ વિશે સૂચનાઓ મેળવો.",
+  "introPage3Title": "સરળ રિટર્ન",
+  "introPage3Description": "સંતુષ્ટ નથી? અમારી 30-દિવસની રિટર્ન પોલિસી સાથે તમારી વસ્તુઓ મુશ્કેલી વિના પરત કરો.",
+  "pleaseEnterAtleast2Letters": "કૃપા કરીને ઓછામાં ઓછા 2 અક્ષરો દાખલ કરો",
+  "atleast1ItemIsRequired": "ઓછામાં ઓછી 1 વસ્તુ જરૂરી છે",
+  "enterYourPhoneNumberToReceiveOtp": "તમારો ફોન નંબર દાખલ કરો અને અમે ચકાસણી માટે એક OTP મોકલીશું.",
+  "sendOtp": "OTP મોકલો",
+  "phoneNumberTooShort": "કૃપા કરીને માન્ય ફોન નંબર દાખલ કરો",
+  "deliveryZones": "ડિલિવરી ઝોન",
+  "searchDeliveryZone": "ડિલિવરી ઝોન શોધો",
+  "zoneDetails": "ઝોન વિગતો",
+  "viewDetailsAboutDeliveryZone": "ડિલિવરી ઝોન વિશે વિગતો જુઓ",
+  "zoneInformation": "ઝોનની માહિતી",
+  "zoneId": "ઝોન આઈડી",
+  "zoneName": "ઝોનનું નામ",
+  "status": "સ્થિતિ",
+  "deliveryFees": "ડિલિવરી ફી",
+  "deliveryFee": "ડિલિવરી ફી",
+  "freeDeliveryAbove": "આનાથી વધુ મફત ડિલિવરી",
+  "perKMCharge": "પ્રતિ કિમી ચાર્જ",
+  "perStoreFee": "પ્રતિ સ્ટોર ફી",
+  "deliveryTimes": "ડિલિવરી સમય",
+  "regularTimePerKM": "પ્રતિ કિમી સામાન્ય સમય",
+  "bufferTime": "બફર સમય",
+  "coverageDetails": "કવરેજ વિગતો",
+  "radius": "ત્રિજ્યા",
+  "centerCoordinates": "કેન્દ્ર કોઓર્ડિનેટ્સ",
+  "boundaryPoints": "સીમા બિંદુઓ",
+  "handlingFee": "હેન્ડલિંગ ફી",
+  "coverageRadius": "કવરેજ ત્રિજ્યા",
+  "noteThisStoreIsNOtAvailableInYourLocation": "નોંધ: આ સ્ટોર તમારા સ્થાન પર ઉપલબ્ધ નથી.",
+  "rush": "રશ",
+  "clearFilters": "ફિલ્ટર્સ સાફ કરો",
+  "applyFilters": "ફિલ્ટર્સ લાગુ કરો",
+  "notifications": "નોટિફિકેશન્સ",
+  "markAllAsRead": "બધાને વાંચેલા તરીકે ચિહ્નિત કરો",
+  "yourWishlistIsEmpty": "તમારી વિશલિસ્ટ ખાલી છે",
+  "createYourFirstWishlistToOrganizeAndSaveItemsYouHave": "તમારી પહેલી વિશલિસ્ટ બનાવો જેથી તમે પસંદની વસ્તુઓને ગોઠવી અને સાચવી શકો",
+  "viewOrderDetails": "ઓર્ડરની વિગતો જુઓ",
+  "phoneNumberAlreadyRegistered": "ફોન નંબર પહેલેથી નોંધાયેલ છે",
+  "pleaseSelectAValidCountryCode": "કૃપા કરીને માન્ય દેશ કોડ પસંદ કરો",
+  "phoneNumberAvailable": "ફોન નંબર ઉપલબ્ધ છે",
+  "totalItems": "કુલ આઇટમ્સ",
+  "noPromoCodesAvailable": "કોઈ પ્રોમો કોડ ઉપલબ્ધ નથી",
+  "thereAreNoActivePromoCodeOrCouponsAvailableRightNow": "હાલમાં કોઈ સક્રિય પ્રોમો કોડ અથવા કૂપન્સ ઉપલબ્ધ નથી",
+  "phoneNumberTooLong": "ફોન નંબર ખૂબ લાંબો છે",
+  "updateAvailable": "અપડેટ ઉપલબ્ધ છે",
+  "forceUpdateDialogMessage": "એક નવું સંસ્કરણ ઉપલબ્ધ છે. એપનો ઉપયોગ ચાલુ રાખવા માટે કૃપા કરીને અપડેટ કરો.",
+  "doItLater": "પછી કરો",
+  "updateNow": "હમણાં અપડેટ કરો",
+  "comingSoonTitle": "જલ્દી આવી રહ્યું છે",
+  "comingSoonMessage": "એપનું નવું સંસ્કરણ તૈયાર થઈ રહ્યું છે. તે ટૂંક સમયમાં સ્ટોર પર ઉપલબ્ધ થશે.\n\nતમારી ધીરજ બદલ આભાર!",
+  "referralCodeHintText": "રેફરલ કોડ (વૈકલ્પિક)",
+  "referAndEarn": "રેફર કરો અને કમાઓ",
+  "failedToLoadReferralData": "રેફરલ ડેટા લોડ કરવામાં નિષ્ફળ",
+  "yourReferralCode": "તમારો રેફરલ કોડ",
+  "codeCopied": "કોડ કૉપિ થયો!",
+  "appLink": "એપ લિંક",
+  "linkCopied": "લિંક કૉપિ થઈ!",
+  "howItWorks": "તે કેવી રીતે કામ કરે છે",
+  "shareYourCode": "તમારો કોડ શેર કરો",
+  "sendYourReferralCodeOrAppLinkToFriends": "તમારો રેફરલ કોડ અથવા એપ લિંક મિત્રોને મોકલો.",
+  "friendSignsUp": "મિત્ર સાઇન અપ કરે છે",
+  "theyRegisterUsingYourReferralCode": "તેઓ તમારા રેફરલ કોડનો ઉપયોગ કરીને નોંધણી કરે છે.",
+  "youEarn": "તમે કમાઓ છો",
+  "whenTheyCompleteTheirFirstOrderYouEarn": "જ્યારે તેઓ તેમનો પ્રથમ ઓર્ડર પૂર્ણ કરે છે, ત્યારે તમે કમાઓ છો",
+  "upTo": "સુધી",
+  "shareNow": "હમણાં શેર કરો",
+  "referAndEarnTitle": "તમારા મિત્રોને રેફર કરો અને રિવોર્ડ કમાઓ",
+  "referAndEarnDescription": "તમારા રેફરલ કોડનો ઉપયોગ કરીને તમારા મિત્રોને આમંત્રિત કરો અને જ્યારે તેઓ સાઇન અપ કરે અને પ્રથમ ઓર્ડર આપે ત્યારે રિવોર્ડ કમાઓ",
+  "share": "શેર કરો",
+  "subCategories": "ઉપ-શ્રેણીઓ",
+  "addonGroupRequiredError": "કૃપા કરીને ઓછામાં ઓછો એક વિકલ્પ પસંદ કરો",
+  "editAddOnsTitle": "એડ-ઓન્સ સંપાદિત કરો",
+  "noAddOnsAvailable": "આ આઇટમ માટે કોઈ એડ-ઓન ઉપલબ્ધ નથી",
+  "addOnsLoadError": "એડ-ઓન લોડ થઈ શક્યા નથી",
+  "addonsTitle": "એડ-ઓન્સ",
+  "addonHintSelectOneRequired": "1 પસંદ કરો (જરૂરી)",
+  "addonHintSelectOne": "કોઈપણ 1 પસંદ કરો",
+  "addonHintSelectAtLeastOneRequired": "ઓછામાં ઓછું 1 પસંદ કરો (જરૂરી)",
+  "addonHintSelectAny": "કોઈપણ પસંદ કરો",
+  "addonRequiredBadge": "જરૂરી",
+  "addonUnavailable": "અનુપલબ્ધ",
+  "yourCustomisations": "તમારા કસ્ટમાઇઝેશન્સ",
+  "addNewCustomisation": "નવું કસ્ટમાઇઝેશન ઉમેરો",
+  "verify": "ચકાસો",
+  "verified": "ચકાસાયેલ",
+  "pleaseVerifyEmailAndMobileBeforePlacingOrder": "ઓર્ડર આપતા પહેલા કૃપા કરીને તમારો ઈમેલ અને મોબાઇલ નંબર ચકાસો.",
+  "emailVerification": "ઈમેલ ચકાસણી",
+  "mobileVerification": "મોબાઇલ ચકાસણી",
+  "sendVerificationEmail": "ચકાસણી ઈમેલ મોકલો",
+  "resendEmail": "ઈમેલ ફરી મોકલો",
+  "checkVerificationStatus": "ચકાસણી સ્થિતિ તપાસો",
+  "verificationLinkSentMessage": "અમે તમારા ઈમેલ સરનામે ચકાસણી લિંક મોકલી છે. ચકાસણી પૂર્ણ કરવા માટે તેને તમારા બ્રાઉઝરમાં ખોલો.",
+  "verificationEmailSentSuccessfully": "ચકાસણી ઈમેલ મોકલાયો",
+  "emailIsNowVerified": "તમારો ઈમેલ હવે ચકાસાયેલ છે",
+  "emailStillNotVerified": "ઈમેલ હજી ચકાસાયેલ નથી. કૃપા કરીને તમારું ઇનબોક્સ તપાસો અને લિંક ખોલો.",
+  "addEmail": "ઈમેલ ઉમેરો",
+  "addMobile": "મોબાઇલ ઉમેરો",
+  "customisable": "કસ્ટમાઇઝ કરી શકાય તેવું",
+  "onlyNumbersAllowed": "ફક્ત આંકડા સ્વીકાર્ય છે",
+  "verifyYourPhone": "તમારો ફોન ચકાસો",
+  "weSentVerificationCodeTo": "અમે ચકાસણી કોડ મોકલ્યો છે",
+  "didntReceiveCode": "કોડ મળ્યો નથી?",
+  "resendOtp": "OTP ફરી મોકલો",
+  "resendInSeconds": "{seconds} સેકન્ડમાં ફરી મોકલો",
+  "@resendInSeconds": {
+    "description": "Countdown shown on the OTP screen until the user can request a new code.",
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "45"
+      }
+    }
+  },
+  "recommended": "ભલામણ કરેલ",
+  "@recommended": {
+    "description": "Badge shown on product cards highlighted by the seller / system as recommended for the user."
+  },
+  "sponsored": "પ્રાયોજિત",
+  "@sponsored": {
+    "description": "Badge shown on product cards that are part of an advertisement campaign."
+  },
+  "repeatOrder": "ઓર્ડર પુનરાવર્તિત કરો",
+  "orderNote": "ઓર્ડર નોંધ",
+  "noteForDeliveryPartner": "ડિલિવરી પાર્ટનર માટે નોંધ",
+  "needHelpWithOrder": "આ ઓર્ડરમાં મદદ જોઈએ છે?",
+  "statusPlaced": "આપ્યો",
+  "statusPartiallyAccepted": "આંશિક રીતે સ્વીકૃત",
+  "statusConfirmed": "પુષ્ટિ થયો",
+  "statusPreparing": "તૈયાર થઈ રહ્યો છે",
+  "statusShipped": "મોકલાયો",
+  "statusOutForDelivery": "ડિલિવરી માટે નીકળ્યો",
+  "statusDelivered": "ડિલિવર થયો",
+  "statusCancelled": "રદ કરાયો",
+  "statusReturned": "પરત કરાયો",
+  "statusFailed": "નિષ્ફળ",
+  "statusReadyForPickup": "પિકઅપ માટે તૈયાર",
+  "statusAssigned": "સોંપાયો",
+  "heroAwaitingConfirmation": "પુષ્ટિની રાહ જોવાઈ રહી છે",
+  "heroReadyForPickup": "તમારો ઓર્ડર પિકઅપ માટે તૈયાર છે",
+  "heroAssigned": "ડિલિવરી પાર્ટનર સોંપાયો",
+  "secondaryAssigned": "એક ડિલિવરી પાર્ટનર તમારો ઓર્ડર લેવા આવી રહ્યો છે",
+  "heroPartiallyAccepted": "ઓર્ડર આંશિક રીતે સ્વીકૃત",
+  "heroStorePreparing": "સ્ટોર તમારો ઓર્ડર તૈયાર કરી રહ્યો છે",
+  "heroArrivingBy": "{time} સુધીમાં પહોંચશે",
+  "@heroArrivingBy": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "heroOnTheWay": "રસ્તામાં",
+  "secondaryReadyForPickup": "તમારો ઓર્ડર લેવા સ્ટોર પર જાઓ",
+  "heroDeliveredOnTime": "સમયસર ડિલિવર થયો",
+  "heroDelivered": "ડિલિવર થયો",
+  "heroOrderCancelled": "ઓર્ડર રદ કરાયો",
+  "heroReturnedAndRefunded": "પરત અને રિફંડ કરાયો",
+  "heroPaymentFailed": "ચુકવણી નિષ્ફળ",
+  "heroRunningLate": "થોડું મોડું થઈ રહ્યું છે",
+  "secondaryPlacedAndEta": "આપ્યો {placed} · અંદાજિત સમય {eta}",
+  "@secondaryPlacedAndEta": {
+    "placeholders": {
+      "placed": {
+        "type": "String"
+      },
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "secondaryUsuallyAccepted": "સામાન્ય રીતે 2 મિનિટમાં સ્વીકૃત",
+  "secondaryPartialItems": "{count} વસ્તુઓ અનુપલબ્ધ",
+  "@secondaryPartialItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemCountAccepted": "{count} સ્વીકૃત",
+  "@itemCountAccepted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemCountPreparing": "{count} તૈયાર થઈ રહ્યા",
+  "@itemCountPreparing": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemCountRejected": "{count} નકારાયા",
+  "@itemCountRejected": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "itemCountPending": "{count} બાકી",
+  "@itemCountPending": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "secondaryDistanceAway": "{name} {distance} દૂર છે · ~{minutes} મિનિટ",
+  "@secondaryDistanceAway": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "secondaryDeliveredOn": "{date} · {time}",
+  "@secondaryDeliveredOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "secondaryCancelledByYou": "તમારા દ્વારા રદ · {date}",
+  "@secondaryCancelledByYou": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "secondaryCancelledByStore": "સ્ટોર દ્વારા રદ · {date}",
+  "@secondaryCancelledByStore": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "secondaryItemsReturned": "{count} વસ્તુઓ પરત કરાઈ · {date}",
+  "@secondaryItemsReturned": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "secondaryExpectedBy": "{time} સુધીમાં અપેક્ષિત",
+  "@secondaryExpectedBy": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "expectedDeliveryBetween": "{start} - {end} વચ્ચે ડિલિવરી",
+  "@expectedDeliveryBetween": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "actionTrackDelivery": "ડિલિવરી ટ્રૅક કરો",
+  "actionTrackOrder": "ઓર્ડર ટ્રૅક કરો",
+  "actionCancelOrder": "ઓર્ડર રદ કરો",
+  "actionReorder": "ફરી ઓર્ડર કરો",
+  "actionReturn": "પરત કરો",
+  "actionRetryPayment": "ચુકવણી ફરી પ્રયાસ કરો",
+  "refundProcessing": "પ્રોસેસ થઈ રહ્યું છે",
+  "refundCredited": "જમા થયું",
+  "refundProcessingNote": "{amount} 1–3 દિવસમાં તમારા વોલેટમાં જમા થશે",
+  "@refundProcessingNote": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "refundCreditedNote": "{amount} {date} ના રોજ તમારા વોલેટમાં ઉમેરાયું",
+  "@refundCreditedNote": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "refundStatusLabel": "રિફંડ સ્થિતિ",
+  "refundLabel": "રિફંડ",
+  "itemsCount": "{count} વસ્તુઓ",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewMoreItems": "{count} વધુ વસ્તુઓ જુઓ",
+  "@viewMoreItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "subtotalLabel": "ઉપ-કુલ",
+  "qtyShort": "જથ્થો {count}",
+  "@qtyShort": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "otpChip": "OTP",
+  "ratingExperience": "તમારા અનુભવને રેટ કરો",
+  "totalPaid": "કુલ ચૂકવેલ",
+  "totalLabel": "કુલ",
+  "deliveredTo": "અહીં ડિલિવર કરાયું",
+  "deliveryAddress": "ડિલિવરી સરનામું",
+  "placedOn": "આ દિવસે આપ્યો",
+  "invoiceLabel": "ઇન્વોઇસ",
+  "downloadLabel": "ડાઉનલોડ કરો",
+  "addressTypeHome": "ઘર",
+  "addressTypeWork": "કાર્યાલય",
+  "addressTypeOther": "અન્ય",
+  "errorLoadingOrder": "ઓર્ડર વિગતો લોડ કરી શકાઈ નહીં",
+  "retryLabel": "ફરી પ્રયાસ કરો",
+  "waitingForStoreToAccept": "સ્ટોર દ્વારા તમારો ઓર્ડર સ્વીકારવાની રાહ જોવાઈ રહી છે",
+  "partialOrderAccepted": "કેટલીક વસ્તુઓ અનુપલબ્ધ છે. કૃપા કરીને તમારો ઓર્ડર તપાસો",
+  "trackingOrder": "ઓર્ડર ટ્રેક કરો",
+  "orderDelivered": "ઓર્ડર ડિલિવર થઈ ગયો",
+  "successfullyDelivered": "સફળતાપૂર્વક ડિલિવર થયો",
+  "orderDeliveredSuccessfully": "તમારો ઓર્ડર સફળતાપૂર્વક ડિલિવર થઈ ગયો છે",
+  "shortly": "ટૂંક સમયમાં",
+  "minutesLabel": "મિનિટ",
+  "destinationLabel": "ગંતવ્ય",
+  "paidLabel": "ચૂકવેલ",
+  "hurryOnlyLeft": "ઉતાવળ કરો! માત્ર {count} બાકી છે",
+  "@hurryOnlyLeft": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nReviews": "{count, plural, =1{1 સમીક્ષા} other{{count} સમીક્ષાઓ}}",
+  "@nReviews": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkOutThisProduct": "આ ઉત્પાદ પર એક નજર નાખો!",
+  "information": "માહિતી",
+  "rewards": "રિવોર્ડ",
+  "orderTransaction": "ઓર્ડર વ્યવહારો",
+  "authMessage": "કૃપા કરીને આગળ વધવા માટે લૉગ ઇન કરો. આ અમને તમારી પસંદગીઓ સાચવવામાં અને તમારી ખરીદીનો અનુભવ સરળ રાખવામાં મદદ કરે છે.",
+  "referralCodeTitle": "શું તમારી પાસે આમંત્રણ કોડ છે?",
+  "referralCodeSubtitle": "રિવોર્ડ અનલૉક કરવા માટે મિત્રનો આમંત્રણ કોડ લાગુ કરો. તમે આ પગલું છોડી પણ શકો છો.",
+  "referralCodeHint": "રેફરલ કોડ દાખલ કરો",
+  "referralCodePrefilledHint": "તમારી આમંત્રણ લિંકમાંથી કોડ ઉમેરાયો",
+  "applyReferralCode": "લાગુ કરો",
+  "skipReferral": "છોડો",
+  "referralAppliedSuccess": "રેફરલ કોડ લાગુ કરાયો",
+  "referralFailedRetry": "રેફરલ અપડેટ કરી શકાયું નહીં. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "selectCountry": "દેશ પસંદ કરો",
+  "currentCountry": "વર્તમાન દેશ",
+  "countrySwitched": "દેશ અપડેટ થયો",
+  "countrySwitchFailed": "દેશ બદલી શકાયો નથી. કૃપા કરી ફરી પ્રયત્ન કરો.",
+  "addresses": "સરનામાં",
+  "addressPickerHint": "શિપિંગ દેશ સેટ કરવા સરનામું પસંદ કરો",
+  "noSavedAddresses": "હજુ સુધી કોઈ સરનામું સચવાયું નથી.",
+  "pickOnMap": "નકશા પર પસંદ કરો",
+  "manageAddresses": "સરનામાં મેનેજ કરો",
+  "loginToSaveAddress": "સરનામાં સાચવવા અને પસંદ કરવા સાઇન ઇન કરો.",
+  "addressCountryNotSupported": "અમે હજુ આ દેશમાં શિપ કરતા નથી",
+  "resolvingLocation": "તમારું સ્થાન શોધી રહ્યા છીએ…",
+  "detectedCountry": "શોધાયેલ દેશ",
+  "dropPinToResolve": "નકશા પર પિન મૂકવા માટે ટેપ કરો",
+  "useThisCountry": "આ દેશનો ઉપયોગ કરો",
+  "searchLocation": "કોઈ સ્થળ અથવા શહેર શોધો…",
+  "exploreStores": "સ્ટોર્સ શોધો",
+  "office": "ઓફિસ",
+  "bag": "બેગ",
+  "shoppingBag": "શોપિંગ બેગ",
+  "platformFee": "પ્લેટફોર્મ ફી",
+  "codFee": "કેશ ઓન ડિલિવરી ફી",
+  "gotIt": "સમજાયું",
+  "paymentOptions": "ચુકવણી વિકલ્પો",
+  "paidBy": "દ્વારા ચૂકવેલ",
+  "ordersCountSubtitle": "{count} ઓર્ડર · છેલ્લા 6 મહિના",
+  "@ordersCountSubtitle": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "searchYourOrders": "તમારા ઓર્ડર શોધો",
+  "allOrders": "બધા ઓર્ડર",
+  "orderStatusDate": "{status} {date}",
+  "@orderStatusDate": {
+    "placeholders": {
+      "status": {},
+      "date": {}
+    }
+  },
+  "returnWindowCloses": "રિટર્ન અવધિ {date} ના રોજ પૂરી થશે",
+  "@returnWindowCloses": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "returnWindowClosed": "રિટર્ન અવધિ પૂરી થઈ",
+  "refundOfCredited": "{amount} નું રિફંડ જમા થયું",
+  "@refundOfCredited": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "refundInitiatedToSource": "{amount} નું રિફંડ સ્રોતમાં શરૂ કરાયું",
+  "@refundInitiatedToSource": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "cancelledAsPerRequest": "તમારી વિનંતી અનુસાર રદ કરાયું",
+  "pickupScheduledFor": "પિકઅપ {date} માટે નિર્ધારિત",
+  "@pickupScheduledFor": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "refundCreditedProcessedNote": "તમારી મૂળ ચુકવણી પદ્ધતિમાં પ્રોસેસ કરાયું. તે દેખાવામાં 2-3 દિવસ લાગી શકે છે.",
+  "help": "મદદ",
+  "getInvoice": "ઇન્વોઇસ મેળવો",
+  "viewBreakup": "વિગત જુઓ",
+  "totalAmount": "કુલ રકમ",
+  "totalItemPrice": "કુલ વસ્તુ કિંમત",
+  "otherItemsInThisDelivery": "આ ડિલિવરીમાં અન્ય વસ્તુઓ",
+  "tax": "કર",
+  "moreItemsInThisOrder": "આ ઓર્ડરમાં {count} વધુ વસ્તુઓ",
+  "@moreItemsInThisOrder": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "onThisItemYouSaved": "આ વસ્તુ પર તમે કુલ {amount} બચાવ્યા",
+  "@onThisItemYouSaved": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "youSavedOnThisOrder": "તમે આ ઓર્ડર પર {amount} બચાવ્યા",
+  "@youSavedOnThisOrder": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "discount": "છૂટ",
+  "remark": "ટિપ્પણી",
+  "selectReason": "એક કારણ પસંદ કરો",
+  "photos": "ફોટા",
+  "optional": "વૈકલ્પિક",
+  "feedbackSubmitted": "તમારા પ્રતિસાદ બદલ આભાર!",
+  "writeAReview": "સમીક્ષા લખો (વૈકલ્પિક)",
+  "yourRating": "તમારું રેટિંગ",
+  "rateSeller": "વિક્રેતાને રેટ કરો",
+  "editRating": "રેટિંગ સંપાદિત કરો",
+  "title": "શીર્ષક",
+  "titleOptional": "શીર્ષક ઉમેરો (વૈકલ્પિક)",
+  "howWasTheItem": "વસ્તુ કેવી હતી?",
+  "clear": "સાફ કરો",
+  "writeAReviewLabel": "સમીક્ષા લખો",
+  "whatShouldOthersKnow": "અન્ય ગ્રાહકોએ શું જાણવું જોઈએ?",
+  "titleYourReview": "તમારી સમીક્ષાને શીર્ષક આપો",
+  "requiredLabel": "(જરૂરી)",
+  "titleReviewHint": "જાણવા માટે સૌથી મહત્વનું શું છે?",
+  "orderTrackStepCancelled": "રદ કરાયો",
+  "orderTrackStepReturned": "પરત કરાયો",
+  "orderTrackStepRefunded": "રિફંડ કરાયો",
+  "orderTrackSummaryCancelled": "તમારો ઓર્ડર રદ કરાયો",
+  "addPhotos": "ફોટા ઉમેરો",
+  "addPhotosHint": "ફોટા ઉમેરવા માટે ટૅપ કરો",
+  "returnUpTo": "તમે {count} સુધી પરત કરી શકો છો",
+  "@returnUpTo": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "orderPlacedTitle": "ઓર્ડર આપ્યો!",
+  "orderPlacedThanks": "આભાર — તમારો ઓર્ડર પુષ્ટિ થયો છે.",
+  "deliveringTo": "અહીં ડિલિવર કરાઈ રહ્યું છે",
+  "trackOrder": "ઓર્ડર ટ્રૅક કરો",
+  "continueShopping": "ખરીદી ચાલુ રાખો",
+  "stayHere": "અહીં જ રહો",
+  "redirectingIn": "{seconds} સેકન્ડમાં તમને તમારા ઓર્ડર પર લઈ જવાઈ રહ્યા છો",
+  "@redirectingIn": {
+    "placeholders": {
+      "seconds": {}
+    }
+  },
+  "itemRefundTitle": "રિફંડ",
+  "itemRefundAmountLabel": "રિફંડ રકમ",
+  "itemRefundQtyLabel": "પરત કરેલી વસ્તુઓ",
+  "itemRefundMethodLabel": "રિફંડ પદ્ધતિ",
+  "itemRefundDateLabel": "રિફંડ તારીખ",
+  "itemRefundReasonLabel": "કારણ",
+  "refundStatusRefunded": "રિફંડ થયું",
+  "refundStatusProcessing": "પ્રક્રિયામાં",
+  "refundStatusRejected": "નકારેલ",
+  "refundStatusRequested": "વિનંતી કરેલ",
+  "itemRefundCreditedNote": "રિફંડ સફળતાપૂર્વક પૂર્ણ થયું.",
+  "itemRefundProcessingNote": "રિફંડ પર પ્રક્રિયા ચાલી રહી છે અને 1–3 દિવસમાં દેખાશે.",
+  "itemRefundRejectedNote": "આ રિટર્ન નકારવામાં આવ્યું, તેથી કોઈ રિફંડ આપવામાં આવ્યું નથી.",
+  "itemRefundRequestedNote": "તમારું રિટર્ન મંજૂર થતાં જ રિફંડ શરૂ કરવામાં આવશે.",
+  "refundMethodWallet": "વૉલેટ",
+  "refundMethodSource": "મૂળ ચુકવણી પદ્ધતિ",
+  "deleteAccountRecoveryMessage": "તમારું ખાતું કાઢી નાખ્યા પછી, તમે 30 દિવસની અંદર ફરી લૉગ ઇન કરીને તેને પુનઃપ્રાપ્ત કરી શકો છો. ત્યાર બાદ, તમારું ખાતું અને તમારો બધો ડેટા કાયમ માટે કાઢી નાખવામાં આવશે.",
+  "youSaveAmount": "You save {amount}",
+  "@youSaveAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "onlyNLeft": "{count} left",
+  "@onlyNLeft": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deliveryByDate": "Delivery by {date}",
+  "@deliveryByDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "selectAll": "Select all",
+  "@selectAll": {
+    "description": "Cart select all checkbox label"
+  },
+  "orderConfirmation": "Order Confirmation",
+  "expectedDelivery": "Expected Delivery",
+  "amountPayable": "Amount Payable",
+  "proceedToPayment": "Proceed to Payment",
+  "editAddress": "Edit Address",
+  "selectCity": "Select City",
+  "searchCountry": "Search country",
+  "searchCity": "Search city",
+  "noCountriesFound": "No countries found",
+  "noCitiesFound": "No cities found",
+  "pleaseSelectCountry": "Please select a country",
+  "pleaseSelectCity": "Please select a city",
+  "pleaseEnterValidZipcode": "Please enter a valid pincode",
+  "pincodeNotFound": "This pincode is not serviceable yet",
+  "chooseMarketForPincode": "Multiple regions match this pincode. Please choose one.",
+  "deliveryLocation": "Delivery Location",
+  "searchLocationOnMap": "Search location",
+  "backToCart": "કાર્ટ પર પાછા જાઓ",
+  "confirmingPaymentSubtitle": "અમે તમારી બેંક સાથે પુષ્ટિ કરીએ ત્યાં સુધી કૃપા કરીને એપ્લિકેશન ખુલ્લી રાખો.",
+  "confirmingPaymentTitle": "ચુકવણી પુષ્ટિ કરી રહ્યાં છીએ…",
+  "continueWithOtp": "OTP સાથે ચાલુ રાખો",
+  "deliveryAndServices": "ડિલિવરી અને સેવાઓ",
+  "hassleFreeReturnAndExchange": "મુશ્કેલી મુક્ત {days} દિવસ પરત અને વિનિમય",
+  "@hassleFreeReturnAndExchange": {
+    "days": {
+      "type": "int"
+    }
+  },
+  "mrp": "MRP",
+  "newPassword": "નવો પાસવર્ડ",
+  "otpLoginSubtitle": "અમે તમારી ઓળખ ચકાસવા માટે એક-વખતનો કોડ મોકલીશું.",
+  "payOnDeliveryAvailable": "ડિલિવરી પર ચુકવણી ઉપલબ્ધ",
+  "paymentCancelledSubtitle": "કોઈ રકમ કપાત નથી થઈ.",
+  "paymentCancelledTitle": "ચુકવણી રદ કરવામાં આવી",
+  "paymentFailedSubtitle": "તમારો ઓર્ડર હજુ પણ અનામત છે. તમે ફરીથી ચુકવણી કરવાનો પ્રયાસ કરી શકો છો.",
+  "paymentStillConfirmingSubtitle": "આ સામાન્ય કરતાં વધુ સમય લઈ રહ્યું છે. પુષ્ટિ થતાં જ અમે તમને જાણ કરીશું.",
+  "paymentStillConfirmingTitle": "હજુ પુષ્ટિ કરી રહ્યાં છીએ",
+  "pleaseVerifyEmailBeforePlacingOrder": "ઓર્ડર આપતા પહેલા કૃપા કરીને તમારો ઇમેઇલ ચકાસો.",
+  "pleaseVerifyMobileBeforePlacingOrder": "ઓર્ડર આપતા પહેલા કૃપા કરીને તમારો મોબાઇલ નંબર ચકાસો.",
+  "resetPassword": "પાસવર્ડ રીસેટ કરો",
+  "resetPasswordSubtitle": "તમારો ઇમેઇલ અથવા ફોન દાખલ કરો અને અમે તમને પાસવર્ડ રીસેટ કરવા માટે કોડ મોકલીશું.",
+  "retryPayment": "ચુકવણી ફરીથી પ્રયાસ કરો",
+  "setNewPassword": "નવો પાસવર્ડ સેટ કરો",
+  "shipmentCount": "{count, plural, =1{1 શિપમેન્ટ} other{{count} શિપમેન્ટ}}",
+  "@shipmentCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "shipmentItemCount": "{count, plural, =1{1 વસ્તુ} other{{count} વસ્તુઓ}}",
+  "@shipmentItemCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "sizeLabel": "સાઇઝ {size}",
+  "@sizeLabel": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "standardDelivery": "સ્ટાન્ડર્ડ",
+  "viewMyOrders": "મારા ઓર્ડર જુઓ",
+  "attachments": "જોડાણો",
+  "addMoreAttachments": "વધુ જોડાણો ઉમેરો",
+  "addAttachment": "જોડાણ ઉમેરો",
+  "chooseFileTypeToUpload": "અપલોડ કરવા માટે ફાઇલ પ્રકાર પસંદ કરો",
+  "clearAll": "બધું સાફ કરો",
+  "backToTop": "Back to top",
+  "supportTitle": "ગ્રાહક સહાય",
+  "supportYou": "તમે",
+  "supportBy": "દ્વારા",
+  "supportCallRequested": "કૉલની વિનંતી કરી",
+  "supportCallUpdated": "કૉલ વિનંતી અપડેટ થઈ",
+  "supportAssigned": "વાતચીત સોંપવામાં આવી",
+  "supportUnassigned": "વાતચીત અનઅસાઇન કરવામાં આવી",
+  "supportStatusUpdated": "વાતચીતની સ્થિતિ અપડેટ થઈ",
+  "supportAssistant": "તમારો વ્યક્તિગત સહાય સહાયક",
+  "supportWelcome": "અમે કેવી રીતે મદદ કરી શકીએ?",
+  "supportWelcomeDescription": "Choose an order or general help to start a guided support conversation.",
+  "supportSelectOrder": "કયા ઓર્ડર માટે મદદ જોઈએ છે?",
+  "supportOlderOrders": "અન્ય અગાઉના ઓર્ડર",
+  "supportGeneralHelp": "મારી સમસ્યા ઓર્ડર સાથે સંબંધિત નથી",
+  "supportSelectTopic": "અમે શેમાં મદદ કરી શકીએ?",
+  "supportDescribeIssue": "સમસ્યા જણાવો",
+  "supportMessagePlaceholder": "તમારો સંદેશ લખો…",
+  "supportStartChat": "ચેટ શરૂ કરો",
+  "supportSend": "સંદેશ મોકલો",
+  "supportResolve": "ચેટ ઉકેલો",
+  "supportResolved": "આ વાતચીત બંધ કરવામાં આવી છે",
+  "supportResolveTitle": "આ ચેટ ઉકેલવી છે?",
+  "supportResolveBody": "Only resolve the chat when your issue has been handled. The conversation will become read-only.",
+  "supportKeepChatting": "ચેટ ચાલુ રાખો",
+  "supportConfirmResolve": "હા, ચેટ ઉકેલો",
+  "supportCallback": "કૉલબૅક",
+  "supportCallbackBody": "Request a call on your registered phone number?",
+  "supportRequestCallback": "કૉલબૅક માંગો",
+  "supportRate": "તમે અમારી સહાયને કેવી રેટિંગ આપશો?",
+  "supportFeedback": "વૈકલ્પિક પ્રતિસાદ",
+  "supportRatingHint": "Choose a rating, add optional feedback, then submit.",
+  "supportSubmitRating": "રેટિંગ મોકલો",
+  "supportThanks": "તમારા પ્રતિસાદ માટે આભાર",
+  "supportStillIssue": "હજુ પણ સમસ્યા છે?",
+  "supportChatWithUs": "અમારી સાથે ચેટ કરો",
+  "supportNewChatHint": "Start a new support conversation when you are ready.",
+  "supportQuickReplies": "ઝડપી જવાબો",
+  "supportAttach": "ફાઇલ જોડો",
+  "supportDownload": "ડાઉનલોડ",
+  "supportShare": "શેર કરો",
+  "supportPreview": "પૂર્વદર્શન",
+  "supportLoadOlder": "જૂના સંદેશા લોડ કરો",
+  "supportExecutive": "ગ્રાહક સહાય પ્રતિનિધિ ટૂંક સમયમાં જોડાશે.",
+  "supportTyping": "સહાય પ્રતિનિધિ લખી રહ્યા છે…",
+  "supportLive": "લાઇવ",
+  "supportPolling": "અપડેટ",
+  "supportOffline": "ઓફલાઇન",
+  "supportContact": "સંપર્ક કરો",
+  "supportCall": "કૉલ કરો",
+  "supportEmail": "ઇમેઇલ કરો",
+  "supportRetry": "ફરી પ્રયાસ કરો",
+  "supportLoading": "વાતચીત લોડ થઈ રહી છે…",
+  "supportFailed": "સહાય વાતચીત લોડ થઈ શકી નથી.",
+  "supportGeneral": "સામાન્ય સહાય",
+  "supportRecentOrders": "તાજેતરના ઓર્ડર",
+  "supportDelivered": "Delivered",
+  "supportRemove": "દૂર કરો",
+  "supportMessageFailed": "સંદેશ મોકલાયો નથી. ફરી પ્રયાસ કરવા ટેપ કરો.",
+  "supportAttachmentError": "Choose up to five JPEG, PNG, WebP or PDF files, maximum 10 MB each.",
+  "supportActionFailed": "કાર્ય પૂર્ણ થઈ શક્યું નથી. ફરી પ્રયાસ કરો.",
+  "supportNoMessages": "સહાય સંદેશા અહીં દેખાશે.",
+  "supportClose": "બંધ કરો",
+  "refresh": "Refresh"
+}
