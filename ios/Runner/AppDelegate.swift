@@ -1,4 +1,4 @@
-import Flutter
+﻿import Flutter
 import UIKit
 import GoogleMaps
 import Firebase
@@ -18,7 +18,7 @@ import UserNotifications
 
     application.registerForRemoteNotifications()
 
-    GMSServices.provideAPIKey("YOUR_IOS_MAP_KEY")
+    GMSServices.provideAPIKey("AIzaSyAiGiou3fNoBDk7OD3yldHR3edgybJXZ-A")
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
